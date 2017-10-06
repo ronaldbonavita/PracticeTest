@@ -33,7 +33,7 @@ ggplot()+
 Column {data-width=350}
 -----------------------------------------------------------------------
 
-### Chart B
+### Average Salary vs. Year
 
 ```{r}
 query<-"SELECT yearID,avg(salary) as avg_salary
